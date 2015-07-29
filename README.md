@@ -9,7 +9,7 @@ It supports OpenDocument Spreadsheet (.ods), Microsoft Excel 97/2000 (.xls), and
 
 It's very simple.
 
-```
+```php
 require_once 'SpreadsheetReaderFactory.php';
 
 $spreadsheetsFilePath = 'test.ods'; //or test.xls, test.csv, etc.
