@@ -2,7 +2,7 @@
 PHP library to read spreadsheet files.
 Exported from code.google.com/p/php-spreadsheetreader
 
-License: GNU Lesser GPL
+License: [GNU LGPL](http://www.gnu.org/licenses/lgpl.html)
 
 
 It supports OpenDocument Spreadsheet (.ods), Microsoft Excel 97/2000 (.xls), and CSV (.csv), and Text with tab-separated or patterns (.txt).
